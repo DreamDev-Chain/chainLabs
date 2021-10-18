@@ -1,4 +1,4 @@
-# Substrate Node Template
+# ChainLab Node 
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
 
